@@ -175,7 +175,7 @@ service timestamps debug datetime msec
 		snmp-server community col@lms!r RO
 		snmp-server community col@lms!w RW
 		snmp-server community Nereidas@CeV# RO
-		snmp-server contact Loja_439_Volta Redonda
+		snmp-server contact Loja_439_Campinas
 		tacacs-server host 172.21.1.51 key 7 023224782B053C2A1F77
 		tacacs-server directed-request
 		!
